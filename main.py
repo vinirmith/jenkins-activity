@@ -1,5 +1,5 @@
-x = input("Type first number: ")
-y = input("Type second number: ")
+x = input("Type x number: ")
+y = input("Type y number: ")
 
 sum = int(x) + int(y)
 
