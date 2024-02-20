@@ -3,4 +3,4 @@ y = input("Type y number: ")
 
 sum = int(x) + int(y)
 
-print("The sum is: ", sum)
+print("The sum x and y is: ", sum)
